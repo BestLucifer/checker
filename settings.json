@@ -1,0 +1,6 @@
+{
+    "proxy_list" : {
+        "http": "http://leader123:leader3131@geo.iproyal.com:12321"
+    },
+    "thread": "10"	
+}

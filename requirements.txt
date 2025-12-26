@@ -1,0 +1,9 @@
+colorama
+uuid
+undetected_chromedriver
+pystyle
+opencv-python
+pandas
+numpy
+pillow
+HLISA==1.4.1
